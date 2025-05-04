@@ -1,5 +1,6 @@
 📘 Sistema de Gestión de Inventario - KD_Electronics
 CRUD con Java, NetBeans y MySQL
+
 Este es un sistema básico de gestión de inventario desarrollado para la empresa KD-Electronics , enfocado en registrar, actualizar y eliminar productos de manera segura y organizada. Ideal para aprender sobre conexión a base de datos, operaciones CRUD y desarrollo de aplicaciones en Java.
 
 ✨ Características principales
@@ -9,6 +10,7 @@ Actualización de datos : Edita cualquier campo excepto el código del producto.
 Eliminación física : Elimina productos de la base de datos (no se usa eliminación lógica en esta versión).
 Interfaz de consola : Menú interactivo para realizar operaciones sin interfaz gráfica (versión básica).
 Ejemplo de uso
+
 --- MENÚ CRUD KD_Electronics ---
 1. Listar productos  
 2. Insertar producto  
